@@ -74,8 +74,8 @@ PromptHub是一个专注于收集、整理和管理各类AI提示词(Prompts)的
 
 如有任何问题、建议或合作意向，请通过以下方式联系我们：
 
-- 项目Issues：[GitHub Issues](https://github.com/yourusername/PromptHub/issues)
-- 电子邮件：your.email@example.com
+- 项目Issues：[GitHub Issues](https://github.com/cacity/PromptHub/issues)
+- 电子邮件：gf7823332@gmail.com
 
 ---
 
